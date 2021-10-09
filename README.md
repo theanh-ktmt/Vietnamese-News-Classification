@@ -13,7 +13,6 @@ Dữ liệu là các bản tin tiếng Việt từ 27 topics khác nhau. Data so
 - Loại bỏ stopwords
 ### 2. Quá trình huấn luyện model
 Các phương pháp được sử dụng:
-- Nhóm phương pháp Machine Learning
   + Bag-of-Words + TF-IDF + Machine Learning Classifier (Best: Logistic Regression 90.11%)
   + Doc2Vec + Machine Learning Classifier (Best: Logistic Regression 80.27%)
   + Doc2Vec + KNN (Best: 80.67%)
