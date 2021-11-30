@@ -1,5 +1,5 @@
 # Vietnamese-News-Classification
-Giải quyết bài toán Text Classification bằng nhiều phương pháp khác nhau và so sánh
+Giải quyết bài toán Text Classification bằng nhiều phương pháp khác nhau và so sánh kết quả.
 
 Dữ liệu là các bản tin tiếng Việt từ 27 topics khác nhau. Data source: https://github.com/duyvuleo/VNTC
 
